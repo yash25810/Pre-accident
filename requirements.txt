@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+geopy
+pydantic
+requests        # To talk to LocationIQ and Overpass
